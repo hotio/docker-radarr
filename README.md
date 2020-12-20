@@ -1,6 +1,6 @@
 [<img src="https://hotio.dev/img/radarr.png" alt="logo" height="130" width="130">](https://github.com/Radarr/Radarr)
 
-[![GitHub Source](https://img.shields.io/badge/github-source-ffb64c?style=flat-square&logo=github&logoColor=white&labelColor=757575)](https://github.com/docker-hotio/docker-radarr)
+[![GitHub Source](https://img.shields.io/badge/github-source-ffb64c?style=flat-square&logo=github&logoColor=white&labelColor=757575)](https://github.com/hotio/radarr)
 [![GitHub Registry](https://img.shields.io/badge/github-registry-ffb64c?style=flat-square&logo=github&logoColor=white&labelColor=757575)](https://github.com/users/hotio/packages/container/package/radarr)
 [![Docker Pulls](https://img.shields.io/docker/pulls/hotio/radarr?color=ffb64c&style=flat-square&label=pulls&logo=docker&logoColor=white&labelColor=757575)](https://hub.docker.com/r/hotio/radarr)
 [![Discord](https://img.shields.io/discord/610068305893523457?style=flat-square&color=ffb64c&label=discord&logo=discord&logoColor=white&labelColor=757575)](https://hotio.dev/discord)
@@ -31,10 +31,10 @@ The [highlighted](https://hotio.dev/containers/radarr) variables are all optiona
 
 | Tag                | Upstream                | Version | Build |
 | -------------------|-------------------------|---------|-------|
-| `release` (latest) | master                  | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocker-hotio%2Fdocker-radarr%2Frelease%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/docker-hotio/docker-radarr/build/release?style=flat-square&label=) |
-| `testing`          | develop                 | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocker-hotio%2Fdocker-radarr%2Ftesting%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/docker-hotio/docker-radarr/build/testing?style=flat-square&label=) |
-| `nightly`          | nightly                 | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocker-hotio%2Fdocker-radarr%2Fnightly%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/docker-hotio/docker-radarr/build/nightly?style=flat-square&label=) |
-| `musl`             | nightly, runs on Alpine | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocker-hotio%2Fdocker-radarr%2Fmusl%2FVERSION.json)    | ![build](https://img.shields.io/github/workflow/status/docker-hotio/docker-radarr/build/musl?style=flat-square&label=) |
+| `release` (latest) | master                  | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhotio%2Fradarr%2Frelease%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/hotio/radarr/build/release?style=flat-square&label=) |
+| `testing`          | develop                 | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhotio%2Fradarr%2Ftesting%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/hotio/radarr/build/testing?style=flat-square&label=) |
+| `nightly`          | nightly                 | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhotio%2Fradarr%2Fnightly%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/hotio/radarr/build/nightly?style=flat-square&label=) |
+| `musl`             | nightly, runs on Alpine | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhotio%2Fradarr%2Fmusl%2FVERSION.json)    | ![build](https://img.shields.io/github/workflow/status/hotio/radarr/build/musl?style=flat-square&label=) |
 
 You can also find tags that reference a commit or version number.
 
