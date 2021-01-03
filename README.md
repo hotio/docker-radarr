@@ -25,6 +25,28 @@ docker run --rm \
     hotio/radarr
 ```
 
+Compose:
+
+```yaml
+version: "3.7"
+
+services:
+  radarr:
+    container_name: radarr
+    image: hotio/radarr
+    ports:
+      - "7878:7878"
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - UMASK=002
+      - TZ=Etc/UTC
+      - ARGS
+      - DEBUG=no
+    volumes:
+      - /<host_folder_config>:/config
+```
+
 In most cases you'll need to add additional volumes, depending on your own personal preference, to get access to your files.
 
 ## Tags
