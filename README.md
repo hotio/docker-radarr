@@ -61,13 +61,3 @@ You can also find tags that reference a commit or version number.
 ## Configuration location
 
 Your radarr configuration inside the container is stored in `/config/app`, to migrate from another container, you'd probably have to move your files from `/config` to `/config/app`.
-
-## Executing your own scripts
-
-If you have a need to do additional stuff when the container starts or stops, you can mount your script with the volume `/docker/host/my-script.sh:/etc/cont-init.d/99-my-script` to execute your script on container start or `/docker/host/my-script.sh:/etc/cont-finish.d/99-my-script` to execute it when the container stops. An example script can be seen below.
-
-```shell
-#!/usr/bin/with-contenv bash
-
-echo "Hello, this is me, your script."
-```
