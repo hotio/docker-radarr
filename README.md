@@ -57,7 +57,3 @@ In most cases you'll need to add additional volumes, depending on your own perso
 | `musl`             | nightly, runs on Alpine | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhotio%2Fradarr%2Fmusl%2FVERSION.json)    | ![build](https://img.shields.io/github/workflow/status/hotio/radarr/build/musl?style=flat-square&label=) |
 
 You can also find tags that reference a commit or version number.
-
-## Configuration location
-
-Your radarr configuration inside the container is stored in `/config/app`, to migrate from another container, you'd probably have to move your files from `/config` to `/config/app`.
