@@ -1,0 +1,39 @@
+{
+  "tags": [
+      {
+      "name": "release",
+      "version": "",
+      "commit": "",
+      "upstream": "",
+      "lastUpdated": ""
+      },
+      {
+      "name": "testing",
+      "version": "",
+      "commit": "",
+      "upstream": "",
+      "lastUpdated": ""
+      },
+      {
+      "name": "nightly",
+      "version": "",
+      "commit": "",
+      "upstream": "",
+      "lastUpdated": ""
+      },
+      {
+      "name": "musl",
+      "version": "",
+      "commit": "",
+      "upstream": "",
+      "lastUpdated": ""
+      },
+      {
+      "name": "pr",
+      "version": "",
+      "commit": "",
+      "upstream": "",
+      "lastUpdated": ""
+      }
+  ]
+}
