@@ -30,10 +30,10 @@
     },
     {
       "name": "pr",
-      "version": "fix-discord-tmdblink-3.1.0.4651",
-      "commit": "386728b",
+      "version": "add-sonarrdonate-moreinfo-3.1.0.4643",
+      "commit": "50cfe0a",
       "upstream": "pull requests",
-      "lastUpdated": "2021-02-26T15:36:48.719Z"
+      "lastUpdated": "2021-02-26T21:55:20.035Z"
     }
   ],
   "pulls": 37573941,
