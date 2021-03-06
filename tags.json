@@ -30,10 +30,10 @@
     },
     {
       "name": "pr",
-      "version": "sonarr-pull-d898f55-3.1.0.4684",
-      "commit": "2ea55f6",
+      "version": "sonarr-pull-e9818b99-3.1.0.4688",
+      "commit": "fc6fed9",
       "upstream": "pull requests",
-      "lastUpdated": "2021-03-05T21:34:34.357Z"
+      "lastUpdated": "2021-03-06T03:00:03.078Z"
     }
   ],
   "pulls": 37839358,
