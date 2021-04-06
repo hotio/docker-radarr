@@ -24,9 +24,9 @@
     {
       "name": "musl",
       "version": "3.1.0.4834",
-      "commit": "f2621cb",
+      "commit": "427f8ad",
       "upstream": "nightly",
-      "lastUpdated": "2021-04-04T08:50:37.684Z"
+      "lastUpdated": "2021-04-06T00:46:48.748Z"
     }
   ],
   "pulls": 39068407,
