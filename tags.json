@@ -17,9 +17,9 @@
     {
       "name": "nightly",
       "version": "3.2.1.5068",
-      "commit": "fe8f285",
+      "commit": "7082f67",
       "upstream": "nightly",
-      "lastUpdated": "2021-05-27T13:18:19.213Z"
+      "lastUpdated": "2021-05-27T14:50:45.119Z"
     },
     {
       "name": "musl",
