@@ -16,10 +16,10 @@
     },
     {
       "name": "nightly",
-      "version": "4.0.0.5100",
-      "commit": "00164b1",
+      "version": "4.0.0.5109",
+      "commit": "207da19",
       "upstream": "nightly",
-      "lastUpdated": "2021-06-24T08:15:54.280Z"
+      "lastUpdated": "2021-06-26T11:28:08.783Z"
     },
     {
       "name": "musl",
