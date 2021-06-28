@@ -23,10 +23,10 @@
     },
     {
       "name": "musl",
-      "version": "4.0.0.5113",
-      "commit": "31e9326",
+      "version": "4.0.0.5117",
+      "commit": "61f3f84",
       "upstream": "nightly",
-      "lastUpdated": "2021-06-27T02:52:53.796Z"
+      "lastUpdated": "2021-06-28T23:13:59.688Z"
     }
   ],
   "pulls": 41884698,
